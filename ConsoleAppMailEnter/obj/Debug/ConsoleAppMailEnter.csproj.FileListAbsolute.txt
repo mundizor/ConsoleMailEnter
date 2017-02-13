@@ -1,0 +1,16 @@
+c:\users\mattias\documents\visual studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\ConsoleAppMailEnter.exe.config
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\ConsoleAppMailEnter.exe
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\ConsoleAppMailEnter.pdb
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\obj\Debug\ConsoleAppMailEnter.csprojResolveAssemblyReference.cache
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\obj\Debug\ConsoleAppMailEnter.exe
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\obj\Debug\ConsoleAppMailEnter.pdb
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\MyFullContactLibrary.dll
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\MyFullContactLibrary.pdb
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Nito.Disposables.dll
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Nito.Disposables.xml
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mattias\Documents\Visual Studio 2015\Projects\ConsoleAppMailEnter\ConsoleAppMailEnter\bin\Debug\Newtonsoft.Json.xml
